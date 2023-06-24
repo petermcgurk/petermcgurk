@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @petermcgurk!
-- 👀 I’m interested in NLP and machine learning.
-- 🌱 I’m currently learning data science with HyperionDev.
-- 💞️ I’m looking to collaborate on NLP projects.
-- 📫 How to reach me on GitHub via DM or by email.
+- 👀 I’m interested in NLP and machine learning
+- 🌱 I’m currently learning data science with HyperionDev
+- 💞️ I’m looking to collaborate on NLP projects
+- 📫 How to reach me on GitHub via DM
 
 <!---
 petermcgurk/petermcgurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
