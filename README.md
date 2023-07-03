@@ -1,9 +1,7 @@
 # Peter McGurk - About Me
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://spectrum.ieee.org/python-compiler">
- <source media="(prefers-color-scheme: light)" srcset="https://en.wikiversity.org/wiki/Python">
- <img alt="Photo of Peter McGurk" src="https://junilearning.com/blog/guide/what-is-python-101-for-students">
+ <img alt="Logo of Python Programming Language" src="https://junilearning.com/blog/guide/what-is-python-101-for-students">
 </picture>
 
 **I am an aspiring and critical thinking data scientist with rapidly developing skills in Python. I have a strong and growing portfolio of work and a good understanding of databases and spreadsheets. I am currently doing a data science skills bootcamp with HyperionDev, which covers areas such as data analysis, data visualisation, machine learning and natural language processing.**
@@ -33,6 +31,7 @@ I have particular interests in data science, natural language processing and mac
 * I am a qualified Speech and Language Therapist
 * I have project management experience
 * Outside of work I enjoy hiking, as well as studying linguistics, foreign languages and history 
+
 
 > *The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.* (Bill Gates)
 
