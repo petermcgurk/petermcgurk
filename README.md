@@ -9,7 +9,7 @@
 ### Reach me: 
 **By email.**
 ### Projects sought: 
-**Looking to work on projects that involve data analytics, machine learning and NLP.**
+**I am looking to work on projects that involve data analytics, machine learning and NLP.**
 
 ## Stack
 * Python
