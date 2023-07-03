@@ -1,7 +1,7 @@
 # Peter McGurk - About Me
 
 <picture>
- <img alt="Logo of Python Programming Language" src="https://junilearning.com/blog/guide/what-is-python-101-for-students">
+ <img alt="Image of sun" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 **I am an aspiring and critical thinking data scientist with rapidly developing skills in Python. I have a strong and growing portfolio of work and a good understanding of databases and spreadsheets. I am currently doing a data science skills bootcamp with HyperionDev, which covers areas such as data analysis, data visualisation, machine learning and natural language processing.**
